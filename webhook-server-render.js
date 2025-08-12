@@ -167,4 +167,4 @@ app.listen(PORT, '0.0.0.0', () => {
     console.log('✅ Ready to receive trade commands from Lovable Auto Trading');
 });
 
-module.exports = app;we
+module.exports = app;
